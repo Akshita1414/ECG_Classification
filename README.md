@@ -67,7 +67,8 @@ Compared against:
 
 * LASSO
 * Ridge Regression
-  <img width="316" height="271" alt="image" src="https://github.com/user-attachments/assets/a4e80245-4f35-459d-a1d4-76ed3f24d202" />
+  
+ <img width="316" height="271" alt="image" src="https://github.com/user-attachments/assets/a4e80245-4f35-459d-a1d4-76ed3f24d202" />
 
 
 Metrics:
@@ -102,7 +103,7 @@ Our team focused on the Feature Selection for ECG Classification module using GN
 Team Members:
 
 * Akshita Chauhan – GNN modeling, classifier evaluation,result benchmarking,& research draft
-* Yatish – Feature extraction, preprocessing,& Graph construction, Documentation,& visualization
+* Yatish Garg – Feature extraction, preprocessing,& Graph construction, Documentation,& visualization
 —
 
 ## 📄 Research Paper (In Progress)
