@@ -1,5 +1,3 @@
-📁 GNN-Based Feature Selection for ECG Classification (MIT-BIH)
-
 # 💡 GNN-Based Feature Selection for ECG Classification
 
 This project focuses on the application of Graph Neural Networks (GNNs), particularly Graph Attention Networks (GAT), for interpretable feature selection in ECG signal classification using the MIT-BIH Arrhythmia dataset. Our method extracts ECG features, models their relationships as a graph, ranks them using attention scores, and evaluates downstream classification using machine learning models.
