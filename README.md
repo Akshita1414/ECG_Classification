@@ -67,6 +67,8 @@ Compared against:
 
 * LASSO
 * Ridge Regression
+  <img width="316" height="271" alt="image" src="https://github.com/user-attachments/assets/a4e80245-4f35-459d-a1d4-76ed3f24d202" />
+
 
 Metrics:
 
@@ -119,21 +121,4 @@ Team Members:
 * Matplotlib, Seaborn
 * MIT-BIH ECG Toolkit, BioSPPy, WFDB
 
-—
 
-## 📎 Folder Structure
-
-* /data – raw and processed ECG segments
-* /preprocessing – signal denoising and normalization scripts
-* /features – feature extraction and HRV modules
-* /graph\_model – GAT model and graph constructor
-* /classifiers – SVM, RF, XGBoost, MLP, LightGBM code
-* /results – evaluation metrics, plots, and screenshots
-* /paper – research manuscript (draft)
-
-—
-
-## 📬 Contact
-
-For queries or collaboration opportunities, reach out via GitHub or email:
-\[Your email or GitHub link]
